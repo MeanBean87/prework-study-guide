@@ -1,0 +1,53 @@
+   * {
+       margin: 0;
+       padding: 0;
+   }
+
+   header {
+    width: 100%;
+    height: 120px;
+    background-color: blue;
+    color: white;
+   }
+
+   footer {
+    width: 100%;
+    height: auto;
+    background-color: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto; /* Center align the footer within the page */
+    margin-right: auto; /* Center align the footer within the page */
+   }
+
+   h1,
+   h2 {
+    text-align: center;
+   }
+
+   img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+   }
+
+   ul {
+    padding-left: 40px;
+    font-size: 20px;
+   }
+
+   p {
+    padding-left: 40px;
+    font-size: 20px;
+   }
+
+   .card {
+     width: 80%;
+     margin: 40px auto;
+     border: 5px solid blue;
+     box-shadow: 5px 10px #888888;
+   }

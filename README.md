@@ -1,2 +1,2 @@
 # prework-study-guide
-Full-Stack boot camp study guide.
+Boot Camp Prework Study Guid for Students.
